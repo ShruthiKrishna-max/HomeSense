@@ -21,3 +21,4 @@ Predict Boston house prices using Machine Learning, featuring:
 1. Open the notebook in Google Colab
 2. Run all cells from top to bottom
 3. Explore visualizations and insights
+[Open in Colab](https://colab.research.google.com/github/ShruthiKrishna-max/PEP_Basic_ML_Project/blob/main/House_Price_Prediction.ipynb)
