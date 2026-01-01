@@ -1,5 +1,5 @@
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
-# House Price Prediction
+# HomeSense
 
 Predict Boston house prices using Machine Learning, featuring:
 
